@@ -1,0 +1,8 @@
+com\example\servingwebcontent\dao\ProfileDAOImp.class
+com\example\servingwebcontent\config\AppConfig.class
+com\example\servingwebcontent\dao\ProfileDAO.class
+com\example\servingwebcontent\controller\ProfileController.class
+com\example\servingwebcontent\service\ProfileService.class
+com\example\servingwebcontent\service\ProfileServiceImp.class
+com\example\servingwebcontent\model\Profile.class
+com\example\servingwebcontent\ServingWebContentApplication.class
